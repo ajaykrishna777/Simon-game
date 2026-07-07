@@ -14,7 +14,7 @@ JavaScript
 jQuery
 ▶️ Live Demo
 
-https://ajaykrishna777.github.io/Simon-Game-JavaScript/
+https://ajaykrishna777.github.io/Simon-game/
 
 📂 How to Run Locally
 Clone the repository
